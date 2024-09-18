@@ -1,0 +1,14 @@
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: A field that data science can be applied to is Transportation. Specifically, with
+automated, AI-operated, self-driving automobile technology on the rise, data science is
+vital in this field as it helps improve the accuracy of the self-driving technologies
+being developed, that allow the vehicle to become even more reliable and safe. Therefore
+data science is important, because machine learning plays a large role in this process,
+and being able to understand the data through data science practices is therefore equally
+important and can be helpful in improving the technology. Ultimately, data science can be
+heavily applied in development process of AI-automated self-driving technology in
+Transportation vehicles and help in bettering the technology.
+
+
